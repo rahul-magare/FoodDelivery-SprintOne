@@ -1,0 +1,16 @@
+{
+    "userid": "123",
+    "userName": "test",
+    "password": "123"
+}
+}
+
+Register:
+URL- http://localhost:8088/Admin_Login/Register
+
+Login:
+URL- http://localhost:8088/Admin_Login/Login?userName=test&password=123
+
+Logout:
+URL- http://localhost:8088/Admin_Login/Logout
+
